@@ -16,9 +16,9 @@ body {
 main {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 50px;
   flex-direction: column;
-  max-width: 320px;
+  max-width: 1000px;
   margin: 0px auto;
 }
 
